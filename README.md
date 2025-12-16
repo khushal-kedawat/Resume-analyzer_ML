@@ -104,6 +104,4 @@ This is a prototype and may not handle every edge case. It serves as a proof-of-
 
 ---
 
-## License
 
-MIT License
